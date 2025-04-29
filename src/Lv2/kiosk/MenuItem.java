@@ -1,7 +1,5 @@
 package Lv2.kiosk;
 
-import java.util.LinkedList;
-
 public class MenuItem {
     //속
     int num;
