@@ -105,4 +105,5 @@ public class Kiosk {
             }
         } while (number != 0);
     }
+
 }

@@ -29,4 +29,5 @@ public class Menu {
     public LinkedList<MenuItem> getMenuItems() {
         return menuItems;
     }
+
 }
